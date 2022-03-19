@@ -31,6 +31,9 @@ heroku/python
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Rajudit/UPLOADER-BOT/issues/14#issuecomment-1021253536)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Rajudit/UPLOADER-BOT)
+
+#### Run in your VPS
 ## BOT COMMANDS
 
 * start - 👻 Check I'm alive or dead
